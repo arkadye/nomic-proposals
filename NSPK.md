@@ -3,7 +3,7 @@ In addition to ways stated elsewhere in the rules, the speaker may leave the pos
 - By distributing a message stating that ey are resigning the post; or
 - By a vote of no confidence from the voters.
 
-If any voter believes that the speaker is negligent in eir duty they may distribute a message to all players declaring that they have no confidence in the speaker. Each voter may then vote by distributing their vote to all players. At the end of the normal voting period, if 50% or more voters have unanimously voted in favour, the speaker is removed from eir post.
+If any voter believes that the speaker is negligent in eir duty they may distribute a message to all players declaring that they have no confidence in the speaker. Each voter may then vote by distributing their vote to all players. At the end of the normal voting period, if a quorum of 50% of voters have unanimously voted in favour then the speaker is removed from eir post.
 
 A new speaker is randomly chosen from amongst the players with the largest number of points by any mutally agreed method. All these players are declared to have won, and the game is restarted as described in rule 203.
 
